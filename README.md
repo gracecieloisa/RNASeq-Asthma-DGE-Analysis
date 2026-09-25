@@ -11,10 +11,8 @@
 This repository houses an end-to-end, fully reproducible transcriptomic pipeline for analyzing high-throughput RNA-Seq data. Utilizing human **Chromosome 21 (GRCh38)** as a targeted model dataset, the project investigates differential gene expression dynamics and dysregulated molecular pathways comparing **Asthmatic** airway tissue against healthy **Control** groups.
 
 ### Key Analytical Achievements:
-* **High-Precision Alignment    :
-* ** Achieved an **overall alignment rate of 97.98%** using `Bowtie2`.
-* **Advanced Feature Debugging  :
-* ** Resolved a **95.38% NA mapping anomaly** in `AnnotationDbi` via custom regular expressions, elevating annotation efficiency to **93.08%**.
+* **High-Precision Alignment    : ** Achieved an **overall alignment rate of 97.98%** using `Bowtie2`.
+* **Advanced Feature Debugging  : ** Resolved a **95.38% NA mapping anomaly** in `AnnotationDbi` via custom regular expressions, elevating annotation efficiency to **93.08%**.
 * **Biostatistical Variance Control:** Captured **84% of total data variance** (PC1: 50%, PC2: 34%) using Variance Stabilizing Transformation (`VST`) in `DESeq2`.
 * **Biological Biomarker Discovery:** Identified **7 core Differentially Expressed Genes (DEGs)** pointing toward a dual molecular pathology: **anti-inflammatory immune suppression** (`IL10RB`, `MX1`) coupled with **glycolytic metabolic reprogramming** (`PFKL`, `SUMO3`).
 
