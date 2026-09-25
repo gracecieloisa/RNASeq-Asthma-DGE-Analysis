@@ -72,13 +72,13 @@ Filtering parameters: Adjusted P-value (Padj) â‰¤ 0.05 and |log_2Fold Change| â‰
 
 | Official Symbol | Log2 Fold Change | Adjusted P-value (Padj) | Expression Status | Primary Biological Function / Pathology |
 | :--- | :---: | :---: | :---: | :--- |
-| **`PFKL`** | **+8.73** | 7.76 x 10^{-6} | **Upregulated** | **Glikolisis (Rate-Limiting):** Mendorong *metabolic reprogramming* untuk pasokan energi sel peradangan. |
-| **`SUMO3`** | **+24.07** | \\(8.42 \times 10^{-6}\\) | **Upregulated** | **Modifikasi Pasca-Translasi:** Sumoilasi protein untuk menstabilkan faktor transkripsi saat stres seluler. |
-| **`IL10RB`** | **-11.85** | \\(1.69 \times 10^{-11}\\) | **Downregulated** | **Reseptor Anti-inflamasi:** Subunit reseptor IL-10/IL-22; hilangnya penekan peradangan saluran napas. |
-| **`KCNJ15`** | **-25.39** | \\(4.83 \times 10^{-6}\\) | **Downregulated** | **Saluran Ion Kalium:** Mengatur homeostasis potensial membran sel epitel dan imunitas. |
-| **`MX1`** | **-8.70** | \\(0.019\\) | **Downregulated** | **GTPase Antiviral:** Komponen utama imunitas bawaan (*innate immunity*) dan respons interferon. |
-| **`MCM3AP`** | **-8.76** | \\(6.10 \times 10^{-5}\\) | **Downregulated** | **Regulasi Siklus Sel:** Berperan dalam transpor mRNA dan inisiasi replikasi DNA. |
-| **`RPS26P4`** | **-2.08** | \\(1.34 \times 10^{-7}\\) | **Downregulated** | **Pseudogen Ribosom:** Komponen struktural RNA. |
+| **`PFKL`** | **+8.73** | 7.76 x 10^-6 | **Upregulated** | **Glikolisis (Rate-Limiting):** Mendorong *metabolic reprogramming* untuk pasokan energi sel peradangan. |
+| **`SUMO3`** | **+24.07** | 8.42 x 10^-6 | **Upregulated** | **Modifikasi Pasca-Translasi:** Sumoilasi protein untuk menstabilkan faktor transkripsi saat stres seluler. |
+| **`IL10RB`** | **-11.85** | 1.69 x 10^-11 | **Downregulated** | **Reseptor Anti-inflamasi:** Subunit reseptor IL-10/IL-22; hilangnya penekan peradangan saluran napas. |
+| **`KCNJ15`** | **-25.39** | 4.83 x 10^-6 | **Downregulated** | **Saluran Ion Kalium:** Mengatur homeostasis potensial membran sel epitel dan imunitas. |
+| **`MX1`** | **-8.70** | 0.019 | **Downregulated** | **GTPase Antiviral:** Komponen utama imunitas bawaan (*innate immunity*) dan respons interferon. |
+| **`MCM3AP`** | **-8.76** | 6.10 x 10^-5 | **Downregulated** | **Regulasi Siklus Sel:** Berperan dalam transpor mRNA dan inisiasi replikasi DNA. |
+| **`RPS26P4`** | **-2.08** | 1.34 x 10^-7 | **Downregulated** | **Pseudogen Ribosom:** Komponen struktural RNA. |
 
 ---
 
