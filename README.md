@@ -1,6 +1,4 @@
-```markdown
 # 🧬 Transcriptomic Profiling & End-to-End RNA-Seq Pipeline: Asthma vs. Control
-
 [![Bioinformatics](https://img.shields.io/badge/Domain-Transcriptomics%20%26%20Bioinformatics-8A2BE2?style=for-the-badge&logo=dna)](https://github.com)
 [![Pipeline](https://img.shields.io/badge/Pipeline-Bowtie2%20%7C%20StringTie%20%7C%20DESeq2-2E8B57?style=for-the-badge&logo=linux)](https://github.com)
 [![R-Bioconductor](https://img.shields.io/badge/R-Bioconductor_v4.3-276DC3?style=for-the-badge&logo=r)](https://bioconductor.org)
