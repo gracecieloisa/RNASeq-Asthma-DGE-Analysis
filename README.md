@@ -181,8 +181,7 @@ Reconstruction of the Protein-Protein Interaction (PPI) network on **STRING DB v
 ## 👤 Author & Contact
 
 **Gracecielo Isaiah**  
-*Aspirant Biological Data Analyst & Bioinformatics Consultant*  
-* **Focus Areas:** Computational Transcriptomics, Biomarker Discovery, & Functional Omics  
-* **Tools Mastered:** R/Bioconductor, Python, Linux CLI, DESeq2, STRING DB  
+*www.linkedin.com/in/gracecieloisaiah*  
+* **Tools:** R/Bioconductor, Linux CLI, DESeq2, STRING DB  
 ```
 
