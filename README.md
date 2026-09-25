@@ -1,9 +1,3 @@
-Tentu, mari kita tingkatkan struktur dan estetika visual dari berkas **`README.md`** ini. 
-
-Di GitHub, repositori berstandar *industry-grade* tidak hanya dinilai dari kebenaran kodenya, tetapi juga dari **arsitektur visual, kerapianhirarki informasi (*readability*), dan navigasi dokumentasi**. Berkas `README.md` ini telah dirancang dengan tata letak yang lebih presisi, dilengkapi dengan *collapsible sections* (`<details>`), tabel yang simetris, badge metadata yang kaya, serta diagram alur kerja yang elegan.
-
-Anda dapat langsung menyalin (*copy-paste*) blok kode Markdown di bawah ini ke berkas `README.md` di repositori GitHub Anda:
-
 ```markdown
 # 🧬 Transcriptomic Profiling & End-to-End RNA-Seq Pipeline: Asthma vs. Control
 
@@ -194,13 +188,3 @@ Reconstruction of the Protein-Protein Interaction (PPI) network on **STRING DB v
 * **Tools Mastered:** R/Bioconductor, Python, Linux CLI, DESeq2, STRING DB  
 ```
 
----
-
-### Keunggulan Layout Markdown Baru Ini:
-
-1. **Badge Header Modern:** Menggunakan *flat-square badges* dengan warna-warna terstandar untuk memberikan kesan profesional dalam 3 detik pertama.
-2. **Kerapian Struktur File:** Ditambahkan diagram direktori (`├── data/`, `├── scripts/`, `├── results/`) agar siapa pun yang melihat repositori Anda langsung memahami di mana berkas disimpan.
-3. **Collapsible Troubleshooting Section:** Menggunakan tag HTML `<details><summary>` agar rincian eror dan kode *regex debugging* tidak menumpuk di halaman utama, namun tetap dapat dibuka secara interaktif oleh perekrut/kolega.
-4. **Tabel Ringkas & Jelas:** Format tabel 7 DEGs dibuat simetris dengan penegasan status *Upregulated* dan *Downregulated*.
-
-Silakan gunakan draf Markdown ini untuk menghias repositori GitHub Anda. Setelah berkas repositori Anda siap, kita dapat langsung beralih membedah materi loka karya berikutnya: **`R for Bioinformatics Training @CBIRT`**!
