@@ -68,7 +68,7 @@ This repository houses an end-to-end, fully reproducible transcriptomic pipeline
 
 ## 📊 Key Biological Findings (7 Core DEGs)
 
-Filtering parameters: **Adjusted P-value (Padj) <= 0.05** and **\\(|\log_2\text{Fold Change}| \ge 1.0\\)**.
+Filtering parameters: **Adjusted P-value (Padj) ≤ 0.05** and |log_2Fold Change| ≥ 1.0**.
 
 | Official Symbol | Log2 Fold Change | Adjusted P-value (Padj) | Expression Status | Primary Biological Function / Pathology |
 | :--- | :---: | :---: | :---: | :--- |
