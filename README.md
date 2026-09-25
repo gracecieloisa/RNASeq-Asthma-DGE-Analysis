@@ -173,7 +173,7 @@ Reconstruction of the Protein-Protein Interaction (PPI) network on **STRING DB v
 
 ## 📄 Documentation & References
 
-* **Full Methodology Report:** See [`results/laporan-metodologi-rna-seq.pdf`](results/laporan-metodologi-rna-seq.pdf) for the publication-ready academic report.
+* **Full Methodology Report:** See [`results/laporan-metodologi-rna-seq.pdf`](...) for the publication-ready academic report.
 * **Reference Genome:** Ensembl Human GRCh38 (Chromosome 21).
 
 ---
