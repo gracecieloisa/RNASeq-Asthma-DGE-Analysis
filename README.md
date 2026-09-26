@@ -173,7 +173,7 @@ Reconstruction of the Protein-Protein Interaction (PPI) network on **STRING DB v
 
 ## 📄 Documentation & References
 
-* **Full Report Summary:** See [...](results/laporan-metodologi-rna-seq.pdf) for the academic Summary.
+* **Full Report Summary:** See [Differential Gene Expression Analysis & Molecular Network Reconstruction of RNA-Seq Data in an Asthma Disease Model (Human Chromosome 21)](https://drive.google.com/file/d/1CmiNUSGkY6jIpSylql-YMetuKStC9ujT/view?usp=sharing) for the academic Summary.
 * **Reference Genome:** Ensembl Human GRCh38 (Chromosome 21).
 
 ---
